@@ -1,5 +1,17 @@
 # Conversation AI using Google Agent Dev Kit
 
+A conversational AI agent built using **Google Agent Development Kit (ADK)**. This agent connects to a local MySQL database, allowing users to execute natural language queries through a user-friendly interface.
+
+---
+
+## Pre
+
+- **MySQL**: Ensure you have a MySQL instance running locally with sample data.
+- **Python 3.9+**: Required for running the application.
+- **Google ADK**: Install the Google Agent Development Kit. [Installation Guide](https://developers.google.com/agent-development-kit)
+
+---
+
 ## Sample MySQL Data:
 <img width="1113" alt="image" src="https://github.com/user-attachments/assets/bb633283-b49b-4ad4-8f20-42ad6d2dddd9" />
 
